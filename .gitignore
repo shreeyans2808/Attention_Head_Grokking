@@ -5,6 +5,10 @@ model_weights_no_bias_64
 model_weights_bias_64
 model_weights_no_bias_32
 model_weights_bias_32
+model_weights_multi_seed_64_no_bias
+model_weights_multi_seed_64_bias
+model_weights_multi_seed_32_no_bias
+model_weights_multi_seed_32_bias
 
 results_3_float32_bias.json
 results_3_float32_nobias.json
