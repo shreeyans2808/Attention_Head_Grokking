@@ -1,6 +1,6 @@
 # Hypothesis
 
-Following similar experimentation and setup of Neel Nanda's experimentation on generalisation and grokking, we check for (+) and (-) to see if the model generalises wth the positional embeddings.
+Following similar experimentation and setup of Neel Nanda's experiment on generalisation and grokking, we check for (+) and (-) to see if the model generalises wth the positional embeddings.
 
 This hypothesis, already proven by Neel Nanda about the model generalising to ignore positional embeddings, leads to another theory.
 
